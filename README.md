@@ -1,6 +1,6 @@
 # Awesome Survival Analysis
 
-A curated list of awesome resources for survival analysis.
+A curated list of useful resources on learning and researching survival analysis.
 
 ## Packages
 
